@@ -1,0 +1,22 @@
+body{
+    background: #191970;
+    color: white;
+    font-family: sans-serif;
+}
+
+#area {
+    height: 200px;
+    width: 200px;
+    line-height: 200px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+input {
+    font-size: 20px;
+    width: 150px;
+}
+
+#res {
+    margin-top: 10px;
+}

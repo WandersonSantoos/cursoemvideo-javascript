@@ -1,0 +1,13 @@
+body{
+    background: #191970;
+    color: white;
+}
+
+#area {
+    font-family: sans-serif;
+    height: 200px;
+    width: 200px;
+    line-height: 200px;
+    text-align: center;
+    border-radius: 15px;
+}
